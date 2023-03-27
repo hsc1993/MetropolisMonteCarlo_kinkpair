@@ -33,7 +33,7 @@ Once the compilation is done, simply run the excutable with "./main"
 [evolution.m](evolution.m) plots the convergence of each energy term of the system. And [saddleConfig.m](saddleConfig.m) plots the saddle point configuration. 
 
 ## Example
-![saddlepoint_fig](https://user-images.githubusercontent.com/56003395/228091219-f5612033-2b12-42a2-ac47-23ee8986ea7e.png)
+<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/56003395/228091219-f5612033-2b12-42a2-ac47-23ee8986ea7e.png)" width="100" height="100">
 
 This is the saddle point configuration for zero stress applied to the system, and the dislocation line curves itself to reach lower energy state.
 
