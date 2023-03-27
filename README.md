@@ -21,10 +21,8 @@ g++ Main.cpp simulation/Simulation.cpp dislocation/Dislocation.cpp SegmentStress
 Note that the [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page) library is used for calculation. The installation procedure of this library is available in its webpage.
 
 
-
-
 ## Usage
-
+[simulation.h](simulation.h)
 ### Dislocation extraction
 
 
