@@ -22,7 +22,7 @@ Note that the [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page) lib
 
 
 ## Usage
-[Simulation.h](Simulation.h)
+[Simulation.h](simulation/Simulation.h)
 ### Dislocation extraction
 
 
