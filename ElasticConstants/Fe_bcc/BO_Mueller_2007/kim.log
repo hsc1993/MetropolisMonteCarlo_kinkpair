@@ -1,0 +1,8 @@
+* Info (KIM_API_model::is_it_match): The following descriptor file line may not match with Simulator's descriptor file.
+ZeroBasedLists flag none [] 
+
+* Info (KIM_API_model::is_it_match): The following descriptor file line may not match with Tersoff_LAMMPS_Mueller_Erhart_Albe_Fe__MO_137964310702_000's descriptor file.
+OneBasedLists flag none [] 
+
+* Info: (KIM_API_model::model_init): call dynamically linked initialize routine for:Tersoff_LAMMPS_Mueller_Erhart_Albe_Fe__MO_137964310702_000
+               from the shared library:/home/openkim/openkim-repository/mo/Tersoff_LAMMPS_Mueller_Erhart_Albe_Fe__MO_137964310702_000/libkim-api-model-v1.so

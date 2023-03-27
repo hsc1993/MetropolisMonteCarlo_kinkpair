@@ -1,0 +1,125 @@
+{
+    "short-name" {
+        "source-value" [
+            "bcc"
+        ]
+    } 
+    "a" {
+        "si-unit" "m" 
+        "source-unit" "angstrom" 
+        "si-value" 2.8636569e-10 
+        "source-value" 2.863656860589969
+    } 
+    "temperature" {
+        "si-unit" "K" 
+        "source-unit" "K" 
+        "si-value" 0.0 
+        "source-value" 0
+    } 
+    "d-1-2" {
+        "si-unit" "kg m / s^2" 
+        "source-unit" "eV/angstrom" 
+        "si-value" 5.1824573e-10 
+        "source-value" 0.32346358
+    } 
+    "d-1-3" {
+        "si-unit" "kg m / s^2" 
+        "source-unit" "eV/angstrom" 
+        "si-value" 3.6609157e-10 
+        "source-value" 0.22849641
+    } 
+    "d-2-3" {
+        "si-unit" "kg m / s^2" 
+        "source-unit" "eV/angstrom" 
+        "si-value" 6.2844426e-11 
+        "source-value" 0.03922441
+    } 
+    "d-2-5" {
+        "si-unit" "kg m / s^2" 
+        "source-unit" "eV/angstrom" 
+        "si-value" 5.8366572e-10 
+        "source-value" 0.36429553
+    } 
+    "d-2-4" {
+        "si-unit" "kg m / s^2" 
+        "source-unit" "eV/angstrom" 
+        "si-value" 1.4733771e-09 
+        "source-value" 0.91960973
+    } 
+    "d-3-3" {
+        "si-unit" "kg m / s^2" 
+        "source-unit" "eV/angstrom" 
+        "si-value" 8.1570147e-10 
+        "source-value" 0.50912087
+    } 
+    "d-2-2" {
+        "si-unit" "kg m / s^2" 
+        "source-unit" "eV/angstrom" 
+        "si-value" 1.0683812e-09 
+        "source-value" 0.66683115
+    } 
+    "property-id" "tag:staff@noreply.openkim.org,2016-05-24:property/elastic-constants-first-strain-gradient-isothermal-cubic-crystal-npt" 
+    "c44" {
+        "si-unit" "kg / m s^2" 
+        "source-unit" "eV/angstrom^3" 
+        "si-value" 121919390000.0 
+        "source-value" 0.7609610912321901
+    } 
+    "d-16-17" {
+        "si-unit" "kg m / s^2" 
+        "source-unit" "eV/angstrom" 
+        "si-value" 6.1363499e-10 
+        "source-value" 0.38300088
+    } 
+    "d-16-16" {
+        "si-unit" "kg m / s^2" 
+        "source-unit" "eV/angstrom" 
+        "si-value" 6.6649315e-10 
+        "source-value" 0.41599235
+    } 
+    "d-3-5" {
+        "si-unit" "kg m / s^2" 
+        "source-unit" "eV/angstrom" 
+        "si-value" 4.7912712e-10 
+        "source-value" 0.29904766
+    } 
+    "basis-atom-coordinates" {
+        "source-value" [
+            [
+                0 
+                0 
+                0
+            ] 
+            [
+                0.5 
+                0.5 
+                0.5
+            ]
+        ]
+    } 
+    "c12" {
+        "si-unit" "kg / m s^2" 
+        "source-unit" "eV/angstrom^3" 
+        "si-value" 138044190000.0 
+        "source-value" 0.8616041324143724
+    } 
+    "c11" {
+        "si-unit" "kg / m s^2" 
+        "source-unit" "eV/angstrom^3" 
+        "si-value" 242985210000.0 
+        "source-value" 1.5165945464625485
+    } 
+    "species" {
+        "source-value" [
+            "Fe" 
+            "Fe"
+        ]
+    } 
+    "instance-id" 1 
+    "d-1-1" {
+        "si-unit" "kg m / s^2" 
+        "source-unit" "eV/angstrom" 
+        "si-value" 1.7211036e-09 
+        "source-value" 1.0742285
+    }
+}

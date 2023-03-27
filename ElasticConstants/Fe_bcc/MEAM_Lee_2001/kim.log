@@ -1,0 +1,8 @@
+* Info (KIM_API_model::is_it_match): The following descriptor file line may not match with simulator_name's descriptor file.
+Neigh_LocaAccess flag none [] 
+
+* Info (KIM_API_model::is_it_match): The following descriptor file line may not match with MEAM_2NN_Fe_to_Ga__MO_145522277939_001's descriptor file.
+Neigh_BothAccess flag none [] 
+
+* Info: (KIM_API_model::model_init): call dynamically linked initialize routine for:MEAM_2NN_Fe_to_Ga__MO_145522277939_001
+               from the shared library:/home/openkim/openkim-repository/mo/MEAM_2NN_Fe_to_Ga__MO_145522277939_001/libkim-api-model-v1.so

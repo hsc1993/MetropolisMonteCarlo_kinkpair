@@ -1,0 +1,5 @@
+{
+    "test" "ElasticConstantsFirstStrainGradientNumericalCubic_bcc_Fe__TE_672395553046_000" 
+    "model" "Tersoff_LAMMPS_Mueller_Erhart_Albe_Fe__MO_137964310702_000" 
+    "domain" "openkim.org"
+}

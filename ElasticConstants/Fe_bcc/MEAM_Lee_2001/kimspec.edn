@@ -1,0 +1,5 @@
+{
+    "test" "ElasticConstantsFirstStrainGradientNumericalCubic_bcc_Fe__TE_672395553046_000" 
+    "model" "MEAM_2NN_Fe_to_Ga__MO_145522277939_001" 
+    "domain" "openkim.org"
+}
