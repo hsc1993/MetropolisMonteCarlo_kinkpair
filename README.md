@@ -37,6 +37,7 @@ Once the compilation is done, simply run the excutable with "./main"
 
 This is the saddle point configuration for zero stress applied to the system, and the dislocation line curves itself to reach lower energy state.
 
+![test](https://github.com/favicon.ico)
 
 ## Maintainers
 
