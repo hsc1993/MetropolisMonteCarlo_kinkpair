@@ -34,7 +34,8 @@ Once the compilation is done, simply run the excutable with "./main"
 
 ## Example
 ![saddlepoint_fig](https://user-images.githubusercontent.com/56003395/228089829-b960a424-9665-44ba-8993-69d2662f8f45.png){
-    width:300px;
+    width:100px;
+    height:100px;
 }
 This is the saddle point configuration for zero stress applied to the system, and the dislocation line curves itself to reach lower energy state.
 
