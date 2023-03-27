@@ -30,10 +30,11 @@ Once the compilation is done, simply run the excutable with "./main"
 [Simulation.cpp](simulation/Simulation.cpp) file is the where all the simulation parameters and materials constants are initialized. The code will run under a series of heights for kink-pairs, and a series of input stresses. Under each condition, a Metropolis Monte Carlo algorithm will tune the position of nodes (in 2D) on a dislocation line, trying to find the optimal shape of the line to minimize the system energy. Once the convergence criteria is met, the saddle point configuration (metastable state) will be written into 'saddle_config.txt' file.
 
 ### Data processing
-
+[evolution.m](evolution.m) plots the convergence of each energy term of the system. And [saddleConfig.m](saddleConfig.m) plots the saddle point configuration. 
 
 ## Example
-
+[same_H_0stress.pdf](https://github.com/hsc1993/MetropolisMonteCarlo_kinkpair/files/11083731/same_H_0stress.pdf)
+This is the saddle point configuration for zero stress applied to the system, and the dislocation line curves itself to reach lower energy state.
 
 
 ## Maintainers
